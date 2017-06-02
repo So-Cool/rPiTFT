@@ -1,5 +1,6 @@
 # Raspberry Pi TFT menu #
-A simple Raspberry Pi menu that can be used with 3.5-inch TFT touch display.
+A simple Raspberry Pi menu that can be used with 3.5-inch TFT touch display.  
+The project is heavily inspired by [this repository](https://github.com/garthvh/pitftmenu).
 
 ## Usage ##
 1. Clone this repository
